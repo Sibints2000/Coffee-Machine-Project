@@ -31,5 +31,4 @@ resources = {
 }
 
 
-# TODO: 1.Print report of all coffee machine resources.
-# TODO: 2. Check resources to make drink order.
+input("What would you like? (espresso/latte/cappuccino):")
