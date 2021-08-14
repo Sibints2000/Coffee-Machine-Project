@@ -30,5 +30,5 @@ resources = {
     "coffee": 100,
 }
 
-
-input("What would you like? (espresso/latte/cappuccino):")
+while True:
+    choice = input("What would you like? (espresso/latte/cappuccino): ")
